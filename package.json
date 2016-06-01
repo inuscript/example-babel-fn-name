@@ -1,0 +1,25 @@
+{
+  "name": "example-babel-fn-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inuscript/example-babel-fn-name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inuscript/example-babel-fn-name/issues"
+  },
+  "homepage": "https://github.com/inuscript/example-babel-fn-name#readme",
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.8.0",
+    "babel-plugin-transform-es2015-function-name": "^6.9.0"
+  }
+}
